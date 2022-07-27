@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,20 +11,21 @@
 <body>
     <div class="container">
         <div class="item-left">
-
+            
         </div>
         <div class="item-right">
-
-            <div class="store">和平店</div>
-            <div class="information">
+           <div class="middle"> 
+                <h1>春水堂人文茶館</h1>
+                <h2> <div class="store">和平店</div></h2>
+                <p><div class="information">
                 高雄市苓雅區和平一路138號1樓
                 </br>
                 (07)223-1436
                 </br>
                 營業時間 10:30-22:30
-                
+                </p></div>
             </div>
-            <div class="contact">
+            <div class="bottom">
                 chunsuitang.com.tw
                 </br>
                 (04)2259-2567
