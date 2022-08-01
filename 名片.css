@@ -67,9 +67,19 @@ display: flex;
     width: 400px;
     height: 500px;
     border-radius: 30px 0px 0px 30px;
-    background-color: rgb(255, 255, 200);
-    background-image: url(../名片練習/images/珍珠奶茶.jpg);
-
+    position: relative;
+    background-color: rgb(254, 248, 229);
+    
+}
+img{
+    max-height: 100%;  
+    max-width: 100%; 
+    position: absolute;  
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
 }
 .item-right{
     width: 600px;
@@ -77,21 +87,20 @@ display: flex;
     line-height: 2;
     display: flex ;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    position: relative;
 
 }
 
 .middle{
     display: flex ;
     flex-direction: column;
-    
+    padding-left: 50px;
+    margin-top: 50px;
 }
- h1{
-    background-image: url(../名片練習/images/春水堂\ 人文茶館.jpg);
-    display: block;
-    text-indent: 101%;
-    overflow: hidden;
-    white-space: nowrap;
+.h1{
+
+    
 }
 
 .store{
@@ -105,5 +114,6 @@ display: flex;
 }
 .bottom{
     line-height: 1.2;
+    padding-left: 50px;
+    margin-bottom: 80px;
 }
-
