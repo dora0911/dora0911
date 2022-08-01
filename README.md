@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,11 +12,11 @@
 <body>
     <div class="container">
         <div class="item-left">
-            
+            <img src="images\珍珠奶茶.jpg" alt="">
         </div>
         <div class="item-right">
            <div class="middle"> 
-                <h1>春水堂人文茶館</h1>
+                <div class="h1"><img src="images\春水堂 人文茶館.png" alt=""></div>
                 <h2> <div class="store">和平店</div></h2>
                 <p><div class="information">
                 高雄市苓雅區和平一路138號1樓
